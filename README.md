@@ -21,3 +21,4 @@ To run the example code, go to the robot in question. The example uses the close
 Run the `kukavarproxy_ptp` program (make sure that you run with a low speed the first time, so that you have control of all the steps it takes).
 
 Run the `./ExampleClient`. The robot will move in a square pattern first, and then down 200mm.
+
